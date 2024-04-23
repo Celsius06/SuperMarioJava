@@ -1,0 +1,4 @@
+Main IDE for coding: IntelliJ
+Main IDE for testing: VSCode
+
+Main language: Groovy (superset of Java)
